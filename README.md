@@ -1,6 +1,7 @@
 # Number-of-Jira-Query
 How to get the number of issues for each jira query (JQL) dynamically?
 
+Youtube: https://youtu.be/yJ995CxkU4A
 Medium: https://mertgursoy.medium.com/how-to-get-the-number-of-issues-for-each-jira-query-jql-automatically-dynamically-14a38d3b2d6f
 Linkedin: https://www.linkedin.com/in/mert-gursoy-1a135780/           
 
